@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aikit.globalcorehub.com/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/zh/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/zh/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/zh/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/zh/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/zh/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/zh/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/es/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/es/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/es/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/es/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/es/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/es/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/pt/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/pt/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/pt/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/pt/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/pt/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/pt/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/de/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/de/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/de/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/de/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/de/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/de/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/fr/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/fr/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/fr/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/fr/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/fr/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/fr/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ja/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ja/token-counter-calculator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/token-counter-calculator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/token-counter-calculator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ja/system-prompt-generator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/system-prompt-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/system-prompt-generator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ja/ai-markdown-cleaner</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/ai-markdown-cleaner"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/ai-markdown-cleaner"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ja/prompt-variable-interpolator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-variable-interpolator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-variable-interpolator"/>
+  </url>
+  <url>
+    <loc>https://aikit.globalcorehub.com/ja/prompt-json-schema-validator</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://aikit.globalcorehub.com/zh/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://aikit.globalcorehub.com/es/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://aikit.globalcorehub.com/pt/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://aikit.globalcorehub.com/de/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://aikit.globalcorehub.com/fr/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://aikit.globalcorehub.com/ja/prompt-json-schema-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://aikit.globalcorehub.com/prompt-json-schema-validator"/>
+  </url>
+</urlset>
