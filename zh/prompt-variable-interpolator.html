@@ -635,11 +635,11 @@
   const outEl = document.getElementById('int-output');
   const btnCopy = document.getElementById('btn-copy-int');
 
-  const varValues = {
+  const varValues = Object.assign(Object.create(null), {
     'source_lang': 'English',
     'target_lang': 'Japanese',
     'text': 'Zero latency edge deployment on Cloudflare Workers.'
-  };
+  });
 
   function syncVars() {
     const text = tplEl.value;
@@ -647,13 +647,21 @@
     const matches = text.match(re) || [];
     const uniqueKeys = Array.from(new Set(matches.map(m => m.slice(2, -2).trim())));
 
-    varsEl.innerHTML = uniqueKeys.map(k => {
-      const v = varValues[k] || '';
-      return '<div>' +
-        '<label class="block text-[11px] font-mono font-bold opacity-70 mb-1">' + k + '</label>' +
-        '<input type="text" data-key="' + k + '" value="' + v + '" class="var-input w-full px-3 py-1.5 rounded-lg border border-[#1e293b] hover:border-[#38bdf8] bg-white/5 font-mono text-xs focus:outline-none focus:ring-1 focus:ring-[#10b981]">' +
-        '</div>';
-    }).join('');
+    varsEl.replaceChildren();
+    uniqueKeys.forEach(k => {
+      const row = document.createElement('div');
+      const label = document.createElement('label');
+      label.className = 'block text-[11px] font-mono font-bold opacity-70 mb-1';
+      label.textContent = k;
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.dataset.key = k;
+      input.value = varValues[k] || '';
+      input.className = 'var-input w-full px-3 py-1.5 rounded-lg border bg-white/5 font-mono text-xs';
+      label.append(input);
+      row.append(label);
+      varsEl.append(row);
+    });
 
     document.querySelectorAll('.var-input').forEach(inp => {
       inp.addEventListener('input', (e) => {
@@ -666,11 +674,8 @@
   }
 
   function renderOutput() {
-    let res = tplEl.value;
-    for (const [k, v] of Object.entries(varValues)) {
-      res = res.split('{{' + k + '}}').join(v);
-    }
-    outEl.value = res;
+    outEl.value = tplEl.value.replace(/{{([a-zA-Z0-9_-]+)}}/g, (match, key) =>
+      Object.prototype.hasOwnProperty.call(varValues, key) ? varValues[key] : match);
   }
 
   tplEl.addEventListener('input', syncVars);
