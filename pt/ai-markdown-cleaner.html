@@ -644,6 +644,7 @@
   </div>
 </div>
 
+<script src="/vendor/purify.min.js"></script>
 <script>
 (function() {
   const mdInput = document.getElementById('md-input');
@@ -656,6 +657,8 @@
   const charsStat = document.getElementById('md-source-chars');
   const dropMd = document.getElementById('drop-md');
 
+  // The preview and HTML export use the same sanitized markup.
+  // Disallow active HTML and non-web link protocols, including data: and javascript:.
   // Lightweight native Markdown to HTML parser
   function parseMarkdown(md) {
     if (!md) return '<p class="opacity-50 text-xs">Preview will appear here as you type...</p>';
@@ -686,7 +689,13 @@
   function render() {
     const raw = mdInput.value;
     const renderedHtml = parseMarkdown(raw);
-    mdPreview.innerHTML = renderedHtml;
+    mdPreview.innerHTML = DOMPurify.sanitize(renderedHtml, {
+      ALLOWED_TAGS: ['p', 'br', 'h1', 'h2', 'h3', 'pre', 'code', 'strong', 'em', 'blockquote', 'li', 'a'],
+      ALLOWED_ATTR: ['class', 'href', 'target', 'rel'],
+      ALLOW_DATA_ATTR: false,
+      ALLOW_ARIA_ATTR: false,
+      ALLOWED_URI_REGEXP: /^(?:https?:|mailto:|\/(?!\/)|#)/i
+    });
 
     const words = raw.trim() ? raw.trim().split(/\s+/).length : 0;
     const chars = raw.length;
